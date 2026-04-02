@@ -10,8 +10,3 @@ Flutter 开发者 · 杭州
 AI-Driven Dynamic UI Workflow — 探索通过 AI 动态生成 UI 的工作流架构，让 LLM 根据上下文自动编排界面组件与交互逻辑。
 🎮 写代码之外
 重度 ACG 爱好者 / 型月厨 / P 社战犯 / 游泳健身党
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sparker&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparker&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
